@@ -1,14 +1,31 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"id": "01",
+	"solde":"209.500",
+	"phone_numbers" :
+	[
+		{
+			"number":"95324569",
+			"offre":"offre 40",
+			"validite":"26-07-2020",
+			"type":"gsm"
+		},
+		{
+			"number":"98324561",
+			"offre":"offre 50",
+			"validite":"12-12-2020",
+			"type":"gsm"
+		},
+		{
+			"number":"93658521",
+			"offre":"offre 40",
+			"validite":"26-07-2025",
+			"type":"gsm"
+		},
+		{
+			"number":"95324569",
+			"offre":"offre 70",
+			"validite":"01-01-2023",
+			"type":"fixe"
+		}
+	]
 }
