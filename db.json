@@ -2,31 +2,34 @@
 	"user":[
 	{
 		"id": 1,
-		"solde":"209.500",
 		"phone_numbers" :
 		[
 			{
 				"number":"95324569",
 				"offre":"offre 40",
 				"validite":"26-07-2020",
+				"solde":"209.500",
 				"type":"gsm"
 			},
 			{
 				"number":"73324561",
 				"offre":"offre 50",
 				"validite":"12-12-2020",
+				"solde":"230.500",
 				"type":"fixe"
 			},
 			{
 				"number":"93658521",
 				"offre":"offre 40",
 				"validite":"26-07-2025",
+				"solde":"309.500",
 				"type":"gsm"
 			},
 			{
 				"number":"75324569",
 				"offre":"offre 70",
 				"validite":"01-01-2023",
+				"solde":"103.500",
 				"type":"fixe"
 			}
 		]
