@@ -60,5 +60,20 @@
 				"type": "fixe"
 			}
 		]
+	}],
+	"client": [{
+	    "codeClient": "186619",
+	    "nom": " EL AOUNI",
+	    "prenom": "SAMAH"
+	}],
+	"info_client": [{
+    		"agents": [
+			"Succursale Siège"
+		],	
+		"cin": "13002346",
+    		"email": "exemple@aaa.tn",
+    		"nom": " EL AOUNI",
+    		"prenom": "SAMAH",
+    		"tel": "98521475"
 	}]
 }
