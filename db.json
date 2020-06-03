@@ -66,7 +66,7 @@
 	    "nom": " EL AOUNI",
 	    "prenom": "SAMAH"
 	}],
-	"info_client": [{
+	"info_client": {
     		"agents": [
 			"Succursale Siège"
 		],	
@@ -75,5 +75,5 @@
     		"nom": " EL AOUNI",
     		"prenom": "SAMAH",
     		"tel": "98521475"
-	}]
+	}
 }
